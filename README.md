@@ -1,4 +1,3 @@
-WIP
 # Docker container for FileBot
 [![Docker Image Size](https://img.shields.io/microbadger/image-size/jlesage/filebot)](http://microbadger.com/#/images/jlesage/filebot) [![Build Status](https://drone.le-sage.com/api/badges/jlesage/docker-filebot/status.svg)](https://drone.le-sage.com/jlesage/docker-filebot) [![GitHub Release](https://img.shields.io/github/release/jlesage/docker-filebot.svg)](https://github.com/jlesage/docker-filebot/releases/latest) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JocelynLeSage/0usd)
 
